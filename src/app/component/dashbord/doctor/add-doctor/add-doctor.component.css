@@ -1,0 +1,12 @@
+.mat-dialog-content {
+  width: auto; /* Ajuster automatiquement la largeur en fonction du contenu */
+  max-width: 800px; /* Limiter la largeur maximale à 800 pixels */
+}
+
+.mat-grid-list {
+  overflow: visible; /* Autoriser le débordement du contenu de la grille si nécessaire */
+}
+
+.mat-radio-button {
+  margin-right: 15px; /* Conserver la marge à droite pour les boutons radio */
+}
